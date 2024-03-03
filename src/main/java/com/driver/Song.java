@@ -5,6 +5,8 @@ public class Song {
     private int length;
     private int likes;
 
+    private String albumName;
+
     public Song(){
 
     }

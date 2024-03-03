@@ -7,6 +7,8 @@ public class Album {
     private String title;
     private Date releaseDate;
 
+    private String artistname;
+
     public Album(){
 
     }
