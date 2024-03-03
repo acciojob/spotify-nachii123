@@ -148,7 +148,7 @@ public class SpotifyRepository {
         for(User  a: users){
             if(mobile.equals(a.getMobile())){
                 curr = a;
-                break;;
+                break;
             }
         }
 
